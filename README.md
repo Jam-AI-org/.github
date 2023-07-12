@@ -3,7 +3,7 @@
 
 ## JAM - jam assist me! :
 
-JAM stands for Jam Assist Me <!--  or just assist me --> a personal AI assistant started by @Lokeshwaran-M to provide an AI assistant for Linux machines and servers. It incorporates technologies such as Speech Recognition, NLP, and TTS for its operational use. It is built on top of LLM and GPT, forming the core system
+JAM stands for Jam Assist Me <!--  or just assist me --> a personal AI assistant started by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M) to provide an AI assistant for Linux machines and servers. It incorporates technologies such as Speech Recognition, NLP, and TTS for its operational use. It is built on top of LLM and GPT, forming the core system
 > the core knowledge of the system is not yet developed will be updated soon
 
 ---
