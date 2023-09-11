@@ -1,6 +1,13 @@
 
 # Jam - AGI
 
+<a  href="https://github.com/jam-agi">
+<div align="center" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+<img src="https://user-images.githubusercontent.com/80915494/267155665-90ab73b5-898c-42a4-870c-0ac688bdc397.png" width="50%" height="50%" >
+</div>
+</a>
+
+
 ## JAM - jam assist me! :
 
 JAM stands for Jam Assist Me a personal AI assistant started by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M) to provide an AI assistant for Linux machines and servers.
