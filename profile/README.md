@@ -3,10 +3,9 @@
 
 <a  href="https://github.com/jam-agi">
 <div align="center" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
-<img src="https://user-images.githubusercontent.com/80915494/267155665-90ab73b5-898c-42a4-870c-0ac688bdc397.png" width="50%" height="50%" >
+<img src="https://github.com/jam-agi/.github/assets/80915494/85e91e19-80a6-443a-a532-eccb3de4de9d" width="50%" height="50%" >
 </div>
 </a>
-
 
 ## JAM - jam assist me! :
 
