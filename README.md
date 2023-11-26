@@ -1,5 +1,5 @@
 
-# OX - AI
+# OX - AI  : OriginX AI
 
 OX - AI stands for **Origin eXpandable Artificial Intelligence** , which is an AI organization, an AGI  project, and a software company founded by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M)
 
