@@ -1,7 +1,7 @@
 
-# OX - AI  : OriginX AI
+# OX - AI  : OrginX AI
 
-OX - AI stands for **Origin eXpandable Artificial Intelligence** , which is an AI organization, an AGI  project, and a software company founded by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M)
+OX - AI stands for **Orgin eXpandable Artificial Intelligence** , which is an AI organization, an AGI  project, and a solo startup as of now started by [@Lokeshwaran-M](https://github.com/Lokeshwaran-M)
 
 The goal of OX - AI is to conduct research in AI and develop AI assistants focused on Linux machines.
 
