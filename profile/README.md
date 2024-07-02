@@ -5,7 +5,7 @@ OX - AI stands for **Orgin eXpandable Artificial Intelligence** , which is code 
 note : ox-ai is code name to sound cool 😎 no intent behind its meaning 
 
 ## goal :
-The OX - AI is to do research, build and develop cool projects/AI Projects focused on native local machine friendly and to run with low specs and (0$ cost) and also with low computation cost 😏 
+The OX - AI is to do research, build and develop cool projects/AI Projects focused on native local machine friendly and to run with low specs and (0$ cost) and also with low computation cost 😉 
 
 
 <a  href="https://github.com/ox-ai">
