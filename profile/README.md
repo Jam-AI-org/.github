@@ -1,10 +1,15 @@
 
 # OX - AI  : OrginX AI
 
-OX - AI pronounced ( **Orgin eXpandable Artificial Intelligence** ) , which is code name to/for the AI Projects and experiment I/we do and build 
+## OX - AI : **Orgin eXpandable Artificial Intelligence**
 
-## goal :
-The OX - AI is to do research, build and develop cool projects/AI Projects focused on native local machine friendly and to run with low specs and (0$ cost) and also with low computation cost 😉 
+OX - AI, pronounced **"Origin eXpandable Artificial Intelligence,"** serves as the codename for our advanced AI projects and experiments.
+
+## About
+
+OX - AI is dedicated to researching, building, and developing cutting-edge AI solutions designed to operate efficiently on local machines with minimal hardware requirements. Our focus is on creating highly optimized, low-cost, and privacy-first AI technologies that empower individuals to harness the power of AI without relying on expensive or cloud-based infrastructure.
+
+Our approach prioritizes native execution, ensuring that our solutions are not only cost-effective and resource-efficient but also deliver high performance on low-spec devices. By emphasizing full privacy and low-cost computation, OX - AI is committed to enabling personal AI applications that are both powerful and accessible to everyone.
 
 
 <a  href="https://github.com/ox-ai">
