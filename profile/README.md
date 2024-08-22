@@ -3,7 +3,7 @@
 
 ## OX - AI : **Orgin eXpandable Artificial Intelligence**
 
-OX - AI, pronounced **"Origin eXpandable Artificial Intelligence,"** serves as the codename for our advanced AI projects and experiments.
+OX - AI, pronounced **"Orgin eXpandable Artificial Intelligence,"** serves as the codename for our advanced AI projects and experiments.
 
 ## About
 
